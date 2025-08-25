@@ -2,7 +2,7 @@
 
 Web diticionary diagram:
 
-![web ditctionary](images/web-dicionary.webp)
+![web ditctionary](images/web-dictionary.webp)
 
 
 # Monorepo
